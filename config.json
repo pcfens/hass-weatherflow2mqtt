@@ -2,9 +2,9 @@
     "name": "WeatherFlow to MQTT",
     "description": "WeatherFlow to MQTT for Home Assistant",
     "slug": "weatherflow2mqtt",
-    "url": "https://github.com/briis/hass-weatherflow2mqtt",
-    "image": "briis/weatherflow2mqtt",
-    "version": "3.1.6",
+    "url": "https://github.com/pcfens/hass-weatherflow2mqtt",
+    "image": "pcfens/weatherflow2mqtt",
+    "version": "3.1.7",
     "arch": [
         "armv7",
         "aarch64",
